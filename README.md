@@ -5,7 +5,7 @@
 mvn install
 
 # 启动端口
-127.0.0.1
+server.port=8080
 
 # 返回内容 
 {"message":"Hello World","status":200}
