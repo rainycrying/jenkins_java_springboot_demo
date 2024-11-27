@@ -1,5 +1,8 @@
 # jenkins_java_springboot_demo
 
+# 环境依赖
+jdk 1.8 
+mvn
 
 # 构建命令 
 mvn install
